@@ -71,7 +71,7 @@ Tech Stack
 
 Installation
 
-git clone https://github.com/shreeyaas12/LATERAL-MOVEMENT-ANALYZER.git  
+git clone https://github.com/shreeyaas12/LATERAL-MOVEMENT-ANALYZER-.git  
 cd LATERAL-MOVEMENT-ANALYZER 
 pip install networkx matplotlib  
 

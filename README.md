@@ -164,8 +164,8 @@ Understanding how attackers pivot between systems after compromise.
 
  Author
 
-Shakthivel Rajesh  
-Cybersecurity Enthusiast | Network Security  
+Shreeyaas S 
+Cybersecurity Student | Network Security | Security Research
 
 
 
